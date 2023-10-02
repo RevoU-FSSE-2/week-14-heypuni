@@ -1,0 +1,6 @@
+export { default as Login } from './Login'
+export { default as Register } from '../container/Register'
+export { default as ProductNew } from '../container/ProductNew'
+export { default as ProductEdit } from '../container/ProductEdit'
+export { default as Profile } from '../container/Profile'
+export { default as Product } from './Product'

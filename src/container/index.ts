@@ -1,0 +1,6 @@
+export { default as Login } from '../pages/Login'
+export { default as ProductEdit } from './ProductEdit'
+export { default as Profile } from './Profile'
+export { default as ProductNew } from './ProductNew'
+export { default as ProductList } from './ProductList'
+export { default as Register } from './Register'
